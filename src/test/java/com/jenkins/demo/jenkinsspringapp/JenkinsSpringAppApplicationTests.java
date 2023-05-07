@@ -15,7 +15,7 @@ JenkinsSpringAppApplicationTests {
 
 	@Test
 	void contextLoads() {
-		logger.info("This logger is from Test Class");
+		logger.info("This logger is from Test Class")
 		assertTrue(true);
 	}
 
